@@ -1,1 +1,1 @@
-MindMap проекта находится в файле  Тест сайта www_auto_ru.pptx
+MindMap проекта находится в файле  "Тест сайта www_auto_ru.pptx"
