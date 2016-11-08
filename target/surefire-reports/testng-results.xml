@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="54900" started-at="2016-11-08T20:16:08Z" finished-at="2016-11-08T20:17:03Z">
+    <groups>
+    </groups>
+    <test name="checkingSearchingByFilters" duration-ms="54900" started-at="2016-11-08T20:16:08Z" finished-at="2016-11-08T20:17:03Z">
+      <class name="code.tests.VehicleSearchFilterTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:code.tests.VehicleSearchFilterTest@13f2bb1]" name="setUp" is-config="true" duration-ms="3827" started-at="2016-11-08T23:16:08Z" finished-at="2016-11-08T23:16:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkingSearchingByFilters(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:code.tests.VehicleSearchFilterTest@13f2bb1]" name="checkingSearchingByFilters" duration-ms="17827" started-at="2016-11-08T23:16:12Z" data-provider="SearchByFiltersTest" finished-at="2016-11-08T23:16:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Новые]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Марка]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Jeep]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Кузов]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Внедорожник]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Модель]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Cherokee]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkingSearchingByFilters -->
+        <test-method status="PASS" signature="checkingSearchingByFilters(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:code.tests.VehicleSearchFilterTest@13f2bb1]" name="checkingSearchingByFilters" duration-ms="10870" started-at="2016-11-08T23:16:30Z" data-provider="SearchByFiltersTest" finished-at="2016-11-08T23:16:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[С пробегом]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Марка]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Lexus]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Кузов]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Седан]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Модель]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[GS]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkingSearchingByFilters -->
+        <test-method status="PASS" signature="checkingSearchingByFilters(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:code.tests.VehicleSearchFilterTest@13f2bb1]" name="checkingSearchingByFilters" duration-ms="10775" started-at="2016-11-08T23:16:41Z" data-provider="SearchByFiltersTest" finished-at="2016-11-08T23:16:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Новые]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Марка]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Jaguar]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Кузов]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Седан]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Модель]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[XE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkingSearchingByFilters -->
+        <test-method status="PASS" signature="checkingSearchingByFilters(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:code.tests.VehicleSearchFilterTest@13f2bb1]" name="checkingSearchingByFilters" duration-ms="10122" started-at="2016-11-08T23:16:52Z" data-provider="SearchByFiltersTest" finished-at="2016-11-08T23:17:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[С пробегом]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Марка]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Nissan]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Коробка]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Автомат]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Модель]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[X-Trail]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkingSearchingByFilters -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:code.tests.VehicleSearchFilterTest@13f2bb1]" name="tearDown" is-config="true" duration-ms="1338" started-at="2016-11-08T23:17:02Z" finished-at="2016-11-08T23:17:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- code.tests.VehicleSearchFilterTest -->
+    </test> <!-- checkingSearchingByFilters -->
+  </suite> <!-- Suite -->
+</testng-results>

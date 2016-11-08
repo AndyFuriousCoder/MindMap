@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1478636168809" stop="1478636223726" version="1.4.16" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : checkingSearchingByFilters</name>
+    <title>Suite : checkingSearchingByFilters</title>
+    <test-cases>
+        <test-case start="1478636172686" stop="1478636190488" status="passed">
+            <name>checkingSearchingByFilters[Новые,Марка,Jeep,Кузов,Внедорожник,Модель,Cherokee]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-J7K1C7R"/>
+                <label name="thread" value="1040@DESKTOP-J7K1C7R.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1478636172686" stop="1478636190488" status="passed">
+            <name>checkingSearchingByFilters[Новые,Марка,Jeep,Кузов,Внедорожник,Модель,Cherokee]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-J7K1C7R"/>
+                <label name="thread" value="1040@DESKTOP-J7K1C7R.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1478636190592" stop="1478636201459" status="passed">
+            <name>checkingSearchingByFilters[С пробегом,Марка,Lexus,Кузов,Седан,Модель,GS]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-J7K1C7R"/>
+                <label name="thread" value="1040@DESKTOP-J7K1C7R.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1478636190592" stop="1478636201459" status="passed">
+            <name>checkingSearchingByFilters[С пробегом,Марка,Lexus,Кузов,Седан,Модель,GS]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-J7K1C7R"/>
+                <label name="thread" value="1040@DESKTOP-J7K1C7R.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1478636201463" stop="1478636212236" status="passed">
+            <name>checkingSearchingByFilters[Новые,Марка,Jaguar,Кузов,Седан,Модель,XE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-J7K1C7R"/>
+                <label name="thread" value="1040@DESKTOP-J7K1C7R.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1478636201463" stop="1478636212236" status="passed">
+            <name>checkingSearchingByFilters[Новые,Марка,Jaguar,Кузов,Седан,Модель,XE]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-J7K1C7R"/>
+                <label name="thread" value="1040@DESKTOP-J7K1C7R.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1478636212241" stop="1478636222360" status="passed">
+            <name>checkingSearchingByFilters[С пробегом,Марка,Nissan,Коробка,Автомат,Модель,X-Trail]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-J7K1C7R"/>
+                <label name="thread" value="1040@DESKTOP-J7K1C7R.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1478636212241" stop="1478636222360" status="passed">
+            <name>checkingSearchingByFilters[С пробегом,Марка,Nissan,Коробка,Автомат,Модель,X-Trail]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-J7K1C7R"/>
+                <label name="thread" value="1040@DESKTOP-J7K1C7R.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
