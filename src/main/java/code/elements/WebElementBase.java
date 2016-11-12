@@ -21,5 +21,10 @@ public class WebElementBase {
         return element;
     }
 
+    public String getElementText()
+    {
+        return getElement().getText();
+    }
+
 
 }

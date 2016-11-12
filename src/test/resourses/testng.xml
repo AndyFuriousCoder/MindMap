@@ -10,6 +10,11 @@
                     <include name = "checkingSearchingByFilters"/>
                 </methods>
             </class>
+            <class name="code.tests.GeolocationTest">
+                <methods>
+                    <include name = "checkingGeolocationTest"/>
+                </methods>
+            </class>
         </classes>
     </test>
 </suite>
